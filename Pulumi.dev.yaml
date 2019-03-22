@@ -1,0 +1,6 @@
+config:
+  aws:profile: dev
+  platform-base:name: k8s
+  platform-base:region: eu-west-1
+  platform-base:rootDomain: dev.mojanalytics.xyz
+  platform-base:vpc-cidr: 192.168.0.0/16
